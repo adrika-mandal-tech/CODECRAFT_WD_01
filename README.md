@@ -1,2 +1,2 @@
 # CODECRAFT_WD_01
-Responsive Landing Page
+A Responsive Landing Page for basic understandings of html, css and javascript
